@@ -1,0 +1,20 @@
+[global]
+monitor = 1
+offset = 8x38
+frame_color = "#cba6f7"
+separator_color= frame
+font = "Apple Color Emoji 10, JetBrainsMono Nerd Font 15"
+corner_radius = 12
+
+[urgency_low]
+background = "#1E1E2E"
+foreground = "#CDD6F4"
+
+[urgency_normal]
+background = "#1E1E2E"
+foreground = "#CDD6F4"
+
+[urgency_critical]
+background = "#1E1E2E"
+foreground = "#CDD6F4"
+frame_color = "#FAB387"
